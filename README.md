@@ -3,10 +3,9 @@ Book titled "Digital Signal Processing, Computer Vision and Image Processing", P
 
 ![Acceptance Email](./Figures/Acceptance.PNG)
 
-![Affine Model](./Figures/Affine_models.PNG)
+![Carriage Image](./Figures/Carriage_Image_with_Haar_and_COIFLET_Filters.PNG)
 
-![TZS Algorithm](./Figures/TZS_Algo.PNG)
+![Lena Image](./Figures/Lena_image_with_Haar_and_COIFLET_Filters.PNG)
 
-![Diamond Search](./Figures/Diamond_Search.PNG)
+![Pepper Image](./Figures/Pepper_Image_with_Haar_and_COIFLET_Filters.PNG)
 
-![Raster Search](./Figures/Raster_Search.PNG)
